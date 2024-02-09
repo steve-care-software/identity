@@ -3,7 +3,7 @@ package signers
 import (
 	kyber "go.dedis.ch/kyber/v3"
 	"go.dedis.ch/kyber/v3/group/edwards25519"
-	"github.com/steve-rodrigue/identity/domain/hash"
+	"github.com/steve-care-software/identity/domain/hash"
 )
 
 /*

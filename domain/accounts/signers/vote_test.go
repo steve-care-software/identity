@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/steve-rodrigue/identity/domain/hash"
+	"github.com/steve-care-software/identity/domain/hash"
 )
 
 func TestVote_Success(t *testing.T) {

@@ -3,8 +3,8 @@ package accounts
 import (
 	"errors"
 
-	"github.com/steve-rodrigue/identity/domain/accounts/encryptors"
-	"github.com/steve-rodrigue/identity/domain/accounts/signers"
+	"github.com/steve-care-software/identity/domain/accounts/encryptors"
+	"github.com/steve-care-software/identity/domain/accounts/signers"
 )
 
 type builder struct {

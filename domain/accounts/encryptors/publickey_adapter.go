@@ -3,7 +3,7 @@ package encryptors
 import (
 	"crypto/x509"
 
-	"github.com/steve-rodrigue/identity/domain/hash"
+	"github.com/steve-care-software/identity/domain/hash"
 )
 
 type publicKeyAdapter struct {

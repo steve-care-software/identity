@@ -3,7 +3,7 @@ package encryptors
 import (
 	"crypto/rsa"
 
-	"github.com/steve-rodrigue/identity/domain/hash"
+	"github.com/steve-care-software/identity/domain/hash"
 )
 
 // NewAdapter creates a new adapter

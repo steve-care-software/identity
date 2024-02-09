@@ -1,4 +1,4 @@
-module github.com/steve-rodrigue/identity
+module github.com/steve-care-software/identity
 
 go 1.19
 
