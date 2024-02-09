@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	kyber "go.dedis.ch/kyber/v3"
-	"steve.care/identity/domain/hash"
+	"github.com/steve-rodrigue/identity/domain/hash"
 )
 
 type voteAdapter struct {

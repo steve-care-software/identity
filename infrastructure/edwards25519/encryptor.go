@@ -7,7 +7,7 @@ import (
 	"errors"
 	"io"
 
-	"steve.care/identity/domain/encryptors"
+	"github.com/steve-rodrigue/identity/domain/encryptors"
 )
 
 type encryptor struct {

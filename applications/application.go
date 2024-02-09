@@ -1,10 +1,10 @@
 package applications
 
 import (
-	"steve.care/identity/domain/accounts"
-	"steve.care/identity/domain/accounts/encryptors"
-	"steve.care/identity/domain/accounts/signers"
-	"steve.care/identity/domain/credentials"
+	"github.com/steve-rodrigue/identity/domain/accounts"
+	"github.com/steve-rodrigue/identity/domain/accounts/encryptors"
+	"github.com/steve-rodrigue/identity/domain/accounts/signers"
+	"github.com/steve-rodrigue/identity/domain/credentials"
 )
 
 type application struct {

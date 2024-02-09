@@ -1,8 +1,8 @@
 package accounts
 
 import (
-	"steve.care/identity/domain/accounts/encryptors"
-	"steve.care/identity/domain/accounts/signers"
+	"github.com/steve-rodrigue/identity/domain/accounts/encryptors"
+	"github.com/steve-rodrigue/identity/domain/accounts/signers"
 )
 
 type account struct {
